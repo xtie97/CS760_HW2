@@ -18,4 +18,4 @@ Question 3 (sklearn): python Q7.py
 
 Question 4 (Lagrange interpolation): python lagrange.py 
 
-All data files are stored in the "data" folder and the generated images are saved in the "images" folder. 
+The decision tree class is located in the "DecisionTree.py". All data files are stored in the "data" folder and the generated images are saved in the "images" folder. 
