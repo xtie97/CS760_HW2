@@ -1,7 +1,10 @@
 # CS760_HW2: Decision Tree 
-# Only the binary classification and continuous attributes are considered. Hopefully, a more general version will come up in the future. 
+## Only the binary classification and continuous attributes are considered. Hopefully, a more general version will come up in the future. 
 
-Question 2.2: python Q2.py 
+*Question 2.2: 
+'''
+python Q2.py
+'''
 
 Question 2.3: python Q3.py
 
