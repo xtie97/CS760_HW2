@@ -1,4 +1,5 @@
-# CS760_HW2
+# CS760_HW2: Decision Tree 
+# Only the binary classification and continuous attributes are considered. Hopefully, a more general version will come up in the future. 
 
 Question 2.2: python Q2.py 
 
@@ -16,3 +17,5 @@ To reproduce the learning curve, please replace the default "thress = x[np.where
 Question 3 (sklearn): python Q7.py 
 
 Question 4 (Lagrange interpolation): python lagrange.py 
+
+All data files are stored in the "data" folder and the generated images are saved in the "images" folder. 
